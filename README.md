@@ -99,7 +99,7 @@ This modpack is all about giving Minecraft players with lower-end hardware a cha
 - Faithful 64x
 - Glass doors and trapdoors
 - Glowing
-- colourful containers
+
 
 
 
