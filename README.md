@@ -72,4 +72,4 @@ A modpack that will help run shaders on low to mid range  pc or laptop. This is 
 
 
 ## Downloading the ModPack
-Please go to the [Releases](https://github.com/AsuiCraft/AsuiCraft-s-Optimized-MC/releases) section to download or download this directly on [Modrinth](https://modrinth.com/modpack/asuicrafts-optimized-mc)
+Download this directly on [Modrinth](https://modrinth.com/modpack/asuicrafts-optimized-mc)
